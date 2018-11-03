@@ -4,7 +4,7 @@ To carry out program do
 
 but the terminal will say "I cannot load library."
 
-you can find where the library is by this command,
+you can find where the library is by this command,  
 `$ldd main`
 
 then the terminal will say
