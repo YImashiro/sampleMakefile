@@ -1,10 +1,11 @@
-##The Basic Example of Makefile
+#The Basic Example of Makefile
 
 the basic structure of makefile is
 
 ```
-TARGET: SOURCEFILE```  
-	```COMMAND```
+TARGET: SOURCEFILE
+	COMMAND
+```
   
 If SRC is not created,makefile try to find and carry out the line to create SOURCEFILE.  
 However note that some target is used for convenience, e.g *clean* , *all*
