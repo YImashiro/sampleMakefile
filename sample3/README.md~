@@ -1,0 +1,4 @@
+##Variables2
+- `$^` all source files
+- `$<` first source file
+- `$@` target file
